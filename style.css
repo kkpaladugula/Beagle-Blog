@@ -1,0 +1,104 @@
+   .group{
+    position: absolute;
+    width: 1643px;
+    height: 661px;
+    left: 38px;
+    top: 47px;
+   }
+   .rectangle1{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1643px;
+    height: 648.57px;
+    left: 38px;
+    top: 47px;
+    border: 2px solid #000000;
+    border-radius: 0px;
+   } 
+   
+    .beagle{
+        height: 613.5435791015625px;
+        width: 1540.5126953125px;
+        left: 89px;
+        top: 94.4564208984375px;
+        border-radius: nullpx;
+        padding: 10px;
+    }
+   .beagle h2{
+        font-family: Inter;
+        font-size: 64px;
+        font-weight: 700;
+        line-height: 77px;
+        letter-spacing: 0em;
+        text-align: left;
+   }
+
+   .beagle p{
+        font-family: Inter;
+        font-size: 40px;
+        font-weight: 400;
+        line-height: 48px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+    .beagle a{
+        font-family: Inter;
+        font-size: 32px;
+        font-weight: 400;
+        line-height: 39px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+
+.images{
+    position: absolute;
+    width: 962px;
+    height: 77px;
+    left: 58px;
+    top: 742px;
+
+}
+.images h2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+    text-decoration-line: underline;
+
+    color: #000000;
+
+}
+.images a{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+text-decoration-line: underline;
+color: #000000;
+}
+
+.Trivia{
+    position: absolute;
+    width: 1623px;
+    height: 469px;
+    left: 58px;
+    top: 1795px;
+}
+.Trivia h2{
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.Trivia ol{
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left; 
+}
